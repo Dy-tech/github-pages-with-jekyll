@@ -1,4 +1,5 @@
 title: My blog
+theme: minima
 author: Dylan Clark
 email: dylanlmclark@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
